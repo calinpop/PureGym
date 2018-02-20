@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PureGym</string>
+    <string name="adress">Adress: Finchley, East End Road, London, N3 2TA</string>
+    <string name="Web">Web: www.puregym.com</string>
+    <string name="Oppening_Times">Oppening Times: 24 hours a day</string>
+    <string name="Contact_NO">Contact No: 0844 477 0005</string>
+
+</resources>
